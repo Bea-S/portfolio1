@@ -36,7 +36,7 @@ Backend: http://localhost:3000
 
 Frontend: http://localhost:5173
 
-Swagger: http://localhost:3000/api-docs
+Swagger: http://localhost:3001/api-docs
 
 📁 Estrutura do projeto
 portfolio1/
