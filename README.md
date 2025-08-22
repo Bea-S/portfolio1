@@ -30,22 +30,6 @@ Testes escritos com Mocha e Supertest.
 
 Cobrem funcionalidades principais da API, garantindo confiabilidade dos endpoints.
 
-🚀 Como executar
-
-Instalar dependências no backend:
-
-cd backend
-npm install
-npm run dev
-
-
-Instalar dependências no frontend:
-
-cd front-end
-npm install
-npm run dev
-
-
 Acessar a aplicação:
 
 Backend: http://localhost:3000
@@ -63,3 +47,5 @@ portfolio1/
 ├── package.json      
 ├── package-lock.json 
 └── README.md
+
+Projeto em desenvilvimento 🚀🛠️
