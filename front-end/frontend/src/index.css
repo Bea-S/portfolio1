@@ -1,0 +1,33 @@
+/* Importa os estilos base do Tailwind (reset de CSS) */
+@tailwind base;
+
+/* Importa os estilos de componentes do Tailwind */
+@tailwind components;
+
+/* Importa todas as classes utilitárias do Tailwind */
+@tailwind utilities;
+
+/* ========================= */
+/* Seus estilos customizados */
+/* ========================= */
+
+/* Exemplo de estilos adicionais */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #4c6986; /* cor de fundo clara */
+  margin: 0;
+  padding: 0;
+}
+
+/* Container centralizado */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Exemplo de título estilizado */
+h1, h2, h3, h4, h5, h6 {
+  color: #071f55; /* cinza escuro */
+  margin-bottom: 1rem;
+}
