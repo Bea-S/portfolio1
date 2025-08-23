@@ -48,4 +48,4 @@ portfolio1/
 ├── package-lock.json 
 └── README.md
 
-Projeto em desenvilvimento 🚀🛠️
+Projeto em desenvolvimento 🚀🛠️
